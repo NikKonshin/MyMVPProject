@@ -20,7 +20,6 @@
         android:layout_height="wrap_content"
         android:text="@string/activity_null"/>
 
-
     <TextView
         android:id="@+id/tv_2"
         android:layout_width="wrap_content"
